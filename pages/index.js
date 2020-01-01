@@ -11,7 +11,7 @@ const PostLink = props => (
 
 const Index = () => (
   <Layout>
-    <h1>Hello Next.js</h1>
+    <h1>Hello Production</h1>
     <PostLink title="POST 1"/>
     <PostLink title="POST 2"/>
     <PostLink title="POST 3"/>
